@@ -1,6 +1,6 @@
 # custom_icons_app
 
-A new Flutter project.
+A new Flutter project that customize icons to use them in **Flutter** App. You can wacth the episode on **Youtube**, link: https://youtu.be/PYBCiWpkMDk
 
 ## Getting Started
 
